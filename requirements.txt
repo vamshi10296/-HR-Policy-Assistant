@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+torch
+reportlab
+gradio
